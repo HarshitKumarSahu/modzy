@@ -1,0 +1,1 @@
+I created a shopping Website named modzy. The site boasts dedicated sections for fashion, electronics, and sports products, complemented by a user-friendly login and cart page. With an "About Us" section and contact page, the site provides a personalized experience through light and dark modes.
